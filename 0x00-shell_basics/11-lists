@@ -1,4 +1,2 @@
 #!/bin/bash
 ls -l -a
-cd..
-ls -l -a
